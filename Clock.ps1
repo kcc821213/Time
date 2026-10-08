@@ -13,7 +13,7 @@ Add-Type -AssemblyName WindowsBase
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="Digital Clock"
-    Width="195"
+    Width="215"
     Height="101"
     WindowStyle="None"
     ResizeMode="NoResize"
